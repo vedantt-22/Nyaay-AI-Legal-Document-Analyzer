@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Nyaay : AI Legal Document Analyzer
+Nyaay: AI Legal Document Analyzer is an AI-powered tool that analyzes legal documents, extracts key clauses, and provides insights. Using NLP and machine learning, it ensures efficient legal review, compliance checks, and risk assessment. With real-time analysis and AI-driven recommendations.
+>>>>>>> 8f848f7e3e22162269b7e9126c1cb94f3c7fb5b0
